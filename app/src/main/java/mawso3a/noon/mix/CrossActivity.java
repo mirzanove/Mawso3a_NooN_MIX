@@ -179,6 +179,7 @@ public class CrossActivity extends Activity implements
 
         mXWalkView.addJavascriptInterface(new WebAppInterface(), "Android");
         mXWalkView.load(getUrl(), null);
+
         MainActivity.fa.finish();
 
 

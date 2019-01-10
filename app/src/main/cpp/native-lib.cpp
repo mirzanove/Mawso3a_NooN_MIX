@@ -50,7 +50,7 @@ Java_mawso3a_noon_mix_CrossActivity_stringFromJNICross(
 
 
     //s = encode(s);
-    s = "this is text come from c++ ,i want to provide pcrecpp functions like preg_replace ,preg_split,strip_html with exception tags, using pcrecpp library to process the html String come form java";
+    s = "crosswalk view ,this is text come from c++ ,i want to provide pcrecpp functions like preg_replace ,preg_split,strip_html with exception tags, using pcrecpp library to process the html String come form java";
 
 
 
@@ -68,7 +68,7 @@ Java_mawso3a_noon_mix_NocrossActivity_stringFromJNInoCross(
     std::string s = env->GetStringUTFChars(html, NULL);
 
     //s = encode(s);
-      s = "this is text come from c++ ,i want to provide pcrecpp functions like preg_replace ,preg_split,strip_html with exception tags, using pcrecpp library to process the html String come form java";
+      s = "No crosswalk view , this is text come from c++ ,i want to provide pcrecpp functions like preg_replace ,preg_split,strip_html with exception tags, using pcrecpp library to process the html String come form java";
 
 
     return env->NewStringUTF(s.c_str());
