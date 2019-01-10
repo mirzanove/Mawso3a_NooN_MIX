@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="MainActivity_enabled">true</bool>
+    <bool name="MainActivitycross_enabled">true</bool>
+
+
+
+</resources>

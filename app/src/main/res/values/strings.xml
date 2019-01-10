@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">موسوعة نون++</string>
+    <string name="title_activity_nocross">NocrossActivity</string>
+    <string name="title_activity_cross">CrossActivity</string>
+
+
+</resources>
