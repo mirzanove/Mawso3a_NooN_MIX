@@ -168,7 +168,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 // add OK and Cancel buttons
-        builder.setPositiveButton("موافق", new DialogInterface.OnClickListener() {
+        builder.setPositiveButton("ok", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
 
