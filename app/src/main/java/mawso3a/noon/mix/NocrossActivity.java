@@ -313,7 +313,7 @@ public class NocrossActivity extends AppCompatActivity {
 
                // dataStr=  stringFromJNInoCross(dataStr);//forget about this in xmarain
 
-                dataStr ="this nocross walk view this came form java here will be heavey taxt proccseing";
+                dataStr ="this is no crosswalk view, this came form java here will be heavey taxt proccseing";
 
                 String [] obj = new String[2];
                 obj[0] = dataStr;

@@ -323,7 +323,7 @@ public class CrossActivity extends Activity implements
 
                 //forget about this in xmarain // dataStr=  stringFromJNICross(dataStr);
 
-                dataStr ="this cross walk view this came form java here will be heavey taxt proccseing";
+                dataStr ="this cross walk view ,this came form java here will be heavey taxt proccseing";
                 String [] obj = new String[2];
                 obj[0] = dataStr;
                 obj[1] = params[1];
